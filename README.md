@@ -28,6 +28,14 @@ The dataset is simulated and is therefore **not intended to represent the actual
 
 The purpose of using this dataset is to demonstrate an end-to-end analytical workflow and to practice applying supply-chain concepts to structured data.
 
+## Business Questions:
+
+- How accurate is the demand forecast?
+- Is inventory below the reorder point?
+- How much inventory should be ordered?
+- How does actual demand compare with AOP?
+- Where are the major supply planning gaps?
+
 The project focuses on learning and demonstrating:
 
 - Data cleaning and transformation
